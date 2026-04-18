@@ -1,2 +1,0 @@
-SAVEHIST=1000
-HISTFILE=~/.history
