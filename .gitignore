@@ -1,0 +1,6 @@
+.cache/
+logs/
+.php/
+*.log
+*.txt
+.DS_Store
