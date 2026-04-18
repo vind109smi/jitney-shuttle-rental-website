@@ -1,6 +1,6 @@
 # Jitney Shuttle Rental Website
 
-A real-world shuttle booking website built to streamline customer reservations and reduce manual coordination for a local transportation business.
+A real-world shuttle booking website built to improve customer experience and streamline booking operations by reducing manual, phone-based coordination for a local transportation business.
 
 ## Features
 
@@ -17,7 +17,7 @@ A real-world shuttle booking website built to streamline customer reservations a
 
 ## Live Site
 
-(put your live URL here)
+[Visit Website](https://www.jitneyshuttlerental.com/)
 
 ## Purpose
 
